@@ -703,7 +703,7 @@ elif cho == 4:
 	print("""
 This Aplication developed by MR_THANUWA
 [*] Text Message bomber is a copy of SL Bomber By SL Sandaru (https://github.com/Sl-Sanda-Ru/Sl-Bomber.git)
-A Product By JASON ENT®(t.me/InfinityJE)
+A Product By JASON ENT®
 """)
 	agd=input(f'\t{Style.BRIGHT}{random.choice(fore)}[?] Do you want to go back to main menu (y/n): ')
 	if agd == 'Y' or agd == 'y':

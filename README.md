@@ -26,7 +26,7 @@ To Use The Bomber Type The Following Commands In Termux:
 apt update && apt upgrade -y
 apt install git python -y
 git clone https://github.com/thanuwasmith/bomberthanuwa.git
-cd infinitybomber
+cd thanuwabomber
 pip3 install -r requirements.txt
 python thanuwabomber.py
 ```

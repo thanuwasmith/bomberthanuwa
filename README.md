@@ -1,5 +1,5 @@
 <h1 align="center">MR_THANUWA BOMBER</h1>
-<p align="center">A SMS bomber For Sri Lankan Numbers.</p><br>
+
 
 ## Note:
 - **The Bomber Only Works For Sri Lankan Numbers** <br>
@@ -15,7 +15,7 @@ Since It's A Python Script You Can Run It In Other Platforms Too. But It Has To 
 
 ## Usage:
 
-Run These Commands To Run JE Bomber
+Run These Commands To Run MRT Bomber
 
 ### > For Termux:
 
@@ -26,7 +26,7 @@ To Use The Bomber Type The Following Commands In Termux:
 apt update && apt upgrade -y
 apt install git python -y
 git clone https://github.com/thanuwasmith/bomberthanuwa.git
-cd thanuwabomber
+cd bomberthanuwa
 pip3 install -r requirements.txt
 python thanuwabomber.py
 ```

@@ -1,9 +1,8 @@
-<h1 align="center">Infinity Bomber</h1>
+<h1 align="center">MR_THANUWA BOMBER</h1>
 <p align="center">A SMS bomber For Sri Lankan Numbers.</p><br>
 
 ## Note:
 - **The Bomber Only Works For Sri Lankan Numbers** <br>
--ආතල් විතරක් ගනින්
 -Data නැතුව වැඩ නෑ..<br>
 - **Developer Is Not Responsible For The Misuse Of Infinity Bomber**
 <br>

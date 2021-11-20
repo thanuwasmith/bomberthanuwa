@@ -4,7 +4,7 @@
 ## Note:
 - **The Bomber Only Works For Sri Lankan Numbers** <br>
 -Data නැතුව වැඩ නෑ..<br>
-- **Developer Is Not Responsible For The Misuse Of Infinity Bomber**
+- **Developer Is Not Responsible For The Misuse Of MR_THANUWA Bomber**
 <br>
 (This Project contain some content from  https://github.com/Sl-Sanda-Ru/Sl-Bomber.git. Maybe some rights reserved by him)<br>
 ## OS Support
